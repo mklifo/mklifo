@@ -1,4 +1,3 @@
-- 🌱 I love to grow & challenge myself as a dev
 - 📫 You can reach me by emailing my username @proton.me
 
 <!---
